@@ -3,7 +3,5 @@ garantindo que eles possam facilmente contribuir com suas ideias, acompanhar o p
 
 A hipótese é que se crie um SISTEMA WEB, que possa funcionar em qualquer dispositivo (Computador, Tablet e Celular), onde seja possível realizar login e realizar todo o processo de gestão das ações sociais com seus fluxos de trabalho.”.
 
-Funcinalidades exigidas:
-1-Landing page e login
-2-Telas do protótipo UX (2 Adm e 2 Donatário)
-3-JavaScript
+Funcinalidades exigidas: Landing page e login, Telas do protótipo UX (2 Adm e 2 Donatário), JavaScript.
+
